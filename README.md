@@ -38,6 +38,5 @@ Example JSON Payload:
   ],
   "totalActivePower": 81.3,
   "totalEnergyConsumption": 1.35
-}```json
-
+}
 
